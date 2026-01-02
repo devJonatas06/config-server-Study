@@ -15,5 +15,5 @@ management:
 
 
 greeting-service:
-  greeting: "hello"
+  greeting: "goodMorning"
   default-value: "world"
